@@ -14,7 +14,7 @@ body {
     border-radius: 20px;
     background-color: #1A1D22;
     padding: 16px;
-    display: flex;
+    display: inline-flex;
     gap: 16px;
     margin: auto;
     margin-top: 200px;
